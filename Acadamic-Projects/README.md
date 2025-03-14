@@ -15,7 +15,7 @@ This repository contains implementations of various **Machine Learning, Signal P
 - Simulates a noisy signal and applies adaptive filtering.
 - Adjusts the filter coefficients dynamically based on error minimization.
 
-🔗 **Code:** [`adaptive_noise_cancellation.m`](Acadamic-Projects/Adaptive_noise_Cancellation.m)
+🔗 **Code:** [`adaptive_noise_cancellation.m`](https://github.com/Naga-Kiran-M/Resume-Based-Portfolio/blob/main/Acadamic-Projects/Adaptive_noise_Cancellation.m)
 
 ---
 
@@ -30,7 +30,7 @@ This repository contains implementations of various **Machine Learning, Signal P
 - Simulates motion blur and Gaussian noise.
 - Restores the image using **deconvolution and adaptive filtering**.
 
-🔗 **Code:** [`image_restoration.m`](Acadamic-Projects/Image_restoration.m)
+🔗 **Code:** [`image_restoration.m`](https://github.com/Naga-Kiran-M/Resume-Based-Portfolio/blob/main/Acadamic-Projects/Image_restoration.m)
 
 ---
 
@@ -45,7 +45,7 @@ This repository contains implementations of various **Machine Learning, Signal P
 - Computes cross-correlation between test and reference speech signals.
 - Uses a similarity threshold to classify whether the speaker is verified.
 
-🔗 **Code:** [`speaker_verification.m`](Acadamic-Projects/Speaker_Verification.m)
+🔗 **Code:** [`speaker_verification.m`](https://github.com/Naga-Kiran-M/Resume-Based-Portfolio/blob/main/Acadamic-Projects/Speaker_Verification.m)
 
 ---
 
@@ -60,7 +60,7 @@ This repository contains implementations of various **Machine Learning, Signal P
 - Computes **Time Difference of Arrival (TDOA)** between two microphones.
 - Estimates **Angle of Arrival (AOA)** using **speed of sound and microphone spacing**.
 
-🔗 **Code:** [`sound_source_localization.m`](Acadamic-Projects/Sound_Source_Localizzation.m)
+🔗 **Code:** [`sound_source_localization.m`](https://github.com/Naga-Kiran-M/Resume-Based-Portfolio/blob/main/Acadamic-Projects/Sound_Source_Localizzation.m)
 
 ---
 
@@ -76,7 +76,7 @@ This repository contains implementations of various **Machine Learning, Signal P
 - Displays BPM on a **16x2 character LCD**.
 - Implemented using **MPLAB XC8** and **PIC microcontroller programming**.
 
-🔗 **Code:** [`heartbeat_monitor_pic16f876.c`](Acadamic-Projects/heartbeat_display_pic16f876.c)
+🔗 **Code:** [`heartbeat_monitor_pic16f876.c`](https://github.com/Naga-Kiran-M/Resume-Based-Portfolio/blob/main/Acadamic-Projects/heartbeat_display_pic16f876.c)
 
 ---
 
