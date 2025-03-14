@@ -12,15 +12,20 @@ Achieved higher prediction accuracy compared to traditional ML models.
 
 Technologies Used: Python, TensorFlow, LSTM, Pandas, Matplotlib.
 
+################################################################################
+
 2. Advanced Bullet Hole Detection Using YOLO (Deep Learning)
 
 Utilized YOLOv8 (You Only Look Once) for real-time object detection.
 
-Trained a deep learning model to accurately detect and classify bullet holes.
+Trained a deep learning model to detect and classify bullet holes accurately.
 
 Integrated OpenCV for bounding box visualization.
 
 Technologies Used: Python, OpenCV, TensorFlow, YOLOv8, Computer Vision.
+
+################################################################################
+
 
 3. Microbial Species Classification with CNNs
 
@@ -31,6 +36,9 @@ Applied data augmentation to improve model generalization.
 Achieved high classification accuracy on microscopic image datasets.
 
 Technologies Used: Python, TensorFlow, CNNs, Image Processing.
+
+################################################################################
+
 
 4. Anomaly Detection in ECG Data Using Autoencoders
 
