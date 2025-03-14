@@ -1,4 +1,4 @@
-# 🚀 Machine Learning & Signal Processing Projects
+# 🚀 E;ectronics & Signal Processing Projects
 
 This repository contains implementations of various **Machine Learning, Signal Processing, and Embedded Systems** projects. These projects cover **adaptive noise cancellation, image restoration, speaker verification, sound source localization, and real-time heartbeat monitoring using a microcontroller**.
 
