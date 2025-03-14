@@ -1,0 +1,12 @@
+# requirements.txt: Dependencies for the project
+
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+torch
+opencv-python
+wfdb
+ultralytics
